@@ -18,3 +18,5 @@ $ git commit --amend -m [message]
 $ git commit --amend [file1] [file2] ...
 
 ceshi
+
+测试3
